@@ -1,0 +1,1 @@
+docker swarm join --token SWMTKN-1-0kdcyed8cp1em3k4odujyl5sll2blziigejs3kea18appei0u9-e7xtvo99gmh2dohwl5z121hzo 192.168.99.100 #Ip de char

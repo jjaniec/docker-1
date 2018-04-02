@@ -1,0 +1,2 @@
+docker service ps engineering-bay
+docker service logs -f abiajmj8p430 #id de engineering-bay.1

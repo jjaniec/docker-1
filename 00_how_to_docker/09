@@ -1,0 +1,3 @@
+apt-get update
+apt-get upgrade -yqq
+apt-get install -yqq gcc git cmake nano
